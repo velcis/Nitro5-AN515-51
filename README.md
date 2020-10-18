@@ -1,5 +1,7 @@
 # Nitro5-AN515-51
 
+### Tested on Mojave last year, and now with Catalina.
+
 ## What is working / O que esta funcionando?
 
 - [x] Audio Realtek ALC265
@@ -33,7 +35,7 @@
 
 ### System
 
-[System Information](https://i.imgur.com/flEt8Wn.png)
+![](https://i.imgur.com/flEt8Wn.png)
 
 ### Soon
 
@@ -41,4 +43,4 @@
 
 ## Credits
 
-[@SaeedHaidar/Nitro-5-an517-51-Hackintosh]ß(https://github.com/SaeedHaidar/Nitro-5-an517-51-Hackintosh);
+[@SaeedHaidar/Nitro-5-an517-51-Hackintosh](https://github.com/SaeedHaidar/Nitro-5-an517-51-Hackintosh);

@@ -37,7 +37,7 @@
 
 ### System
 
-![](https://i.imgur.com/flEt8Wn.png)
+![](./assets/images/bigsur.png)
 
 ### Soon
 

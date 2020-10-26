@@ -39,7 +39,10 @@
 
 ![](./assets/images/bigsur.png)
 
-### Soon
+## Info
+
+### com.apple.filesystems.apfs error
+If you catch into this error you need to set **SecureBootModel** to **Disabled**
 
 #
 
